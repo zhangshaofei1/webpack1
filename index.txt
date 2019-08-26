@@ -2,3 +2,5 @@
 asdf
 zhangshaofei
 dsasdasdasdasdasdasdasdas
+git remote add newname https://github.com/zhangshaofei1/ceshi.git
+git push newname master
